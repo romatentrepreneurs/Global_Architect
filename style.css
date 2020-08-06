@@ -784,7 +784,7 @@ ol {
 	width: 50%;
 	height: 100%;
 	left: 0;
-	background-image: url("../img/cta-img.jpg");
+	background-image: url("../portfolio/img/home/8.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -1141,7 +1141,7 @@ ol {
 	height: calc(100% + 120px);
 	left: 0;
 	top: -60px;
-	background-image: url("../img/cta-img.jpg");
+	background-image: url("../portfolio/img/home/38.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
